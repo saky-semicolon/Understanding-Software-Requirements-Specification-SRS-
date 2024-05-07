@@ -28,15 +28,9 @@ Welcome to the guide on Software Requirements Specification (SRS) by S M Asiful 
 2. Requirements may arise from the tasks the software needs to accomplish or from unique project aspects.
 
 ## SRS Format
-- Detailed description of writing an SRS; template provided.
+ Detailed description of writing an SRS; template provided in the repository:-
 
-### Find the complete guidelines notes for SRS here.
-
-<video width="320" height="240" controls>
-  <source src="video.mov" type="[Understanding SRS](https://youtu.be/cK8hh6Zsfok?si=7AUZmpDAPPyb6pS5)">
-</video>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cK8hh6Zsfok?si=ZHOL7hTnOhpCHMPp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Find the complete guidelines [Notes on SRS](https://github.com/saky-semicolon/Understanding-Software-Requirements-Specification-SRS-/blob/main/Guide%20to%20SRS.pdf) and also watch the [Video Tutorial](https://youtu.be/cK8hh6Zsfok?si=7AUZmpDAPPyb6pS5)
 
 ## Characteristics of SRS
 - Correct: Every requirement stated in the SRS is a requirement of the software.
@@ -65,7 +59,7 @@ Welcome to the guide on Software Requirements Specification (SRS) by S M Asiful 
 - Status: "Accepted"
 - SRS acceptance marks a pivotal agreement point, ensuring alignment among stakeholders and setting the foundation for successful software development.
 
-## Questions?
+## Contact Information
 - Ask: asiful.saky@student.aiu.edu.my
 - Follow: www.instagram.com/saky.aiu
 - Connect: www.linkedin.com/in/sakysemicolon
